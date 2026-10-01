@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Prashanth Galagali 👋</h1>
 
-<p align="center"><b>Senior Software Development Engineer in Test (SDET) | IoT · API · Mobile · Cloud Quality</b></p>
+<p align="center"><b>Senior SDET &amp; Builder | IoT · API · Mobile · Cloud</b><br/><i>From idea to product: I build the systems, tools and products that make quality possible.</i></p>
 
-<p align="center">📍 Bengaluru, India (Open to Remote)</p>
+<p align="center">📍 Bengaluru, India (Remote / Hybrid)</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prasshanth-galagali/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,9 +12,18 @@
 
 ---
 
+## 🚀 About Me
+
+Senior SDET with **9+ years** in quality engineering across **IoT devices, mobile apps, backend APIs and cloud**: voice-controlled smart devices at **Samsung R&D (Bixby)**, fintech microservices at **Grab**, and today a connected **aerospace IoT** product where I'm the only QA engineer.
+
+- 🔭 **Current focus:** End-to-end quality for a product where data flows device → mobile app → AWS → APIs → web dashboard.
+- 🛠️ **Building in public:** [`sdet-builder-portfolio`](https://github.com/galagaliprashant/sdet-builder-portfolio), with weekly progress in its journey log.
+- 🌱 **Learning now:** pytest in depth, Docker, SQL for test validation, AWS fundamentals.
+
+---
+
 ## 🧭 Builder Mindset — From Idea to Product
 
-> **I don't just test products. I build the systems, tools and products that make quality possible.**
 > Nine years of testing other people's products taught me how good products are built and how they fail. Now I take ideas from a blank page to something real people use.
 
 <table>
@@ -72,16 +81,6 @@ pipeline:
 
 - **Systems compound.** Each framework, pipeline or checklist I build makes the next piece of work faster and safer.
 - **Process beats motivation.** A good system keeps running on the hard days. That's how I turned manual testing into automation, a career gap into shipped apps, and a blank repo into a working QA function.
-
----
-
-## 🚀 About Me
-
-Senior SDET with **9+ years** in quality engineering across **IoT devices, mobile apps, backend APIs and cloud**: voice-controlled smart devices at **Samsung R&D (Bixby)**, fintech microservices at **Grab**, and today a connected **aerospace IoT** product where I'm the only QA engineer.
-
-- 🔭 **Current focus:** End-to-end quality for a product where data flows device → mobile app → AWS → APIs → web dashboard.
-- 🛠️ **Building in public:** [`sdet-builder-portfolio`](https://github.com/galagaliprashant/sdet-builder-portfolio), with weekly progress in its journey log.
-- 🌱 **Learning now:** pytest in depth, Docker, SQL for test validation, AWS fundamentals.
 
 ---
 
