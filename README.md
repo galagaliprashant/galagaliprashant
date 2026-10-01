@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prashanth Galagali 👋</h1>
 
-<p align="center"><b>Senior SDET &amp; Builder | IoT · API · Mobile · Cloud</b><br/><i>From idea to product: I build the systems, tools and products that make quality possible.</i></p>
+<p align="center"><b>Senior SDET &amp; Builder | IoT · API · Mobile · Web · Cloud</b><br/><i>From idea to product: I build the systems, tools and products that make quality possible.</i></p>
 
 <p align="center">📍 Bengaluru, India (Remote / Hybrid)</p>
 
